@@ -1,0 +1,5 @@
+Through this assignment, I learned how to use the GOTO statement in PL/SQL to transfer program control to a labeled statement. I also learned that GOTO has restrictions and cannot be used to jump into the middle of certain structured statements.
+
+I learned how to create PL/SQL functions using parameters and RETURN values. I created functions for calculating annual salary, years of service, tax, and department names. I also learned how functions can be called inside SQL SELECT statements.
+
+The combined payroll task helped me understand how functions can work with database tables and how exception handling can be used when data is not found. I also learned that although GOTO can be useful in some situations, structured statements such as IF, ELSIF, and ELSE can make programs easier to understand and maintain.
